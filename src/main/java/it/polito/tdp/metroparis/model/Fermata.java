@@ -1,6 +1,6 @@
 package it.polito.tdp.metroparis.model;
 
-import com.javadocmd.simplelatlng.LatLng;
+import com.javadocmd.simplelatlng.LatLng; //libreria che definisce latitudine e longitudine e da dei metodi per calcolare le distanze
 
 public class Fermata {
 
